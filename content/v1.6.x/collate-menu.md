@@ -5,6 +5,7 @@ site_menu:
 
   - category: Enable Security
     url: /deployment
+    collate: false
   - category: Enable Security / Ldap Authentication
     url: /deployment/security/ldap
   - category: Enable Security / Auth0 SSO

@@ -18,6 +18,7 @@ Configure and schedule Greenplum metadata and profiler workflows from the OpenMe
 - [Requirements](#requirements)
 - [Metadata Ingestion](#metadata-ingestion)
 - [Enable Security](#securing-rest-catalog-connection-with-ssl-in-openmetadata)
+- [Lineage](#lineage)
 
 {% partial file="/v1.6/connectors/external-ingestion-deployment.md" /%}
 
@@ -61,6 +62,8 @@ process the Entities if needed, and reach the OpenMetadata server.
 
 The workflow is modeled around the following
 [JSON Schema](https://github.com/open-metadata/OpenMetadata/blob/main/openmetadata-spec/src/main/resources/json/schema/metadataIngestion/workflow.json)
+
+{% partial file="/v1.6/connectors/yaml/lineage.md" variables={connector: "iceberg"} /%}
 
 ## 1. Define the YAML Config
 
