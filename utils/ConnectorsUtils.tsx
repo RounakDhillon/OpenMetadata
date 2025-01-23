@@ -101,6 +101,7 @@ export const getConnectorImage = (connector: string) => {
     Doris: "doris",
     Druid: "druid",
     DynamoDB: "dynamodb",
+    Exasol: "exasol",
     Elasticsearch: "elasticsearch",
     Flink: "flink",
     Fivetran: "fivetran",
