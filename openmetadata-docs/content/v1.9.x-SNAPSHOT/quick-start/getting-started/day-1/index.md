@@ -1,5 +1,6 @@
 ---
 title: Day 1 Getting Started | OpenMetadata Day 1 Guide
+description: Get started with day 1. Refer to the official documentation for the latest updates. Setup instructions, features, and configuration details inside. Refer to the official documentation for the latest updates.
 slug: /quick-start/getting-started/day-1
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Keycloak SSO for Kubernetes
+title: Keycloak SSO for Kubernetes | Official Documentation
+description: Get started with kubernetes. Refer to the official documentation for the latest updates. Setup instructions, features, and configuration details inside. Refer to the official documentation for the latest updates.
 slug: /deployment/security/keycloak/kubernetes
 collate: false
 ---

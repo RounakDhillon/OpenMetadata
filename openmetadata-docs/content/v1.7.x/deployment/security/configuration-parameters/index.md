@@ -1,5 +1,6 @@
 ---
-title: OIDC Based Authentication
+title: OIDC Based Authentication | Official Documentation
+description: Get started with configuration parameters. Setup instructions, features, and configuration details inside. Refer to the official documentation for the latest updates.
 slug: /deployment/security/configuration-parameters
 collate: false
 ---

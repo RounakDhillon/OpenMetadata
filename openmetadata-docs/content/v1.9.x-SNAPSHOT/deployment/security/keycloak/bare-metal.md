@@ -1,5 +1,6 @@
 ---
-title: Keycloak SSO for Bare Metal
+title: Keycloak SSO for Bare Metal | Official Documentation
+description: Get started with bare metal. Refer to the official documentation for the latest updates. Setup instructions, features, and configuration details inside. Refer to the official documentation for the latest updates.
 slug: /deployment/security/keycloak/bare-metal
 collate: false
 ---

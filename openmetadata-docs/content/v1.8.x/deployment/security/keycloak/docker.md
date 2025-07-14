@@ -1,5 +1,6 @@
 ---
-title: Keycloak SSO for Docker
+title: Keycloak SSO for Docker | Official Documentation
+description: Get started with docker. Refer to the official documentation for the latest updates. Setup instructions, features, and configuration details inside. Refer to the official documentation for the latest updates.
 slug: /deployment/security/keycloak/docker
 collate: false
 ---

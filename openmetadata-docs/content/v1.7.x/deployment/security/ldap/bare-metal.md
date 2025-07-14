@@ -1,5 +1,6 @@
 ---
-title: Ldap Authentication for Bare Metal
+title: Ldap Authentication for Bare Metal | Official Documentation
+description: Get started with bare metal. Setup instructions, features, and configuration details inside. Refer to the official documentation for the latest updates.
 slug: /deployment/security/ldap/bare-metal
 collate: false
 ---
